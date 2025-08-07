@@ -2,7 +2,7 @@
 - 👀 I’m interested in Embedded Systems, Robotics, Machine Learning and a bit of web development.
 - 🎓 Recently graduated from The University of the West of England with a 2:1.
 - 🐲 Originally from Somerset, now based in Bristol.
-- In my spare time, I make music, read, go climbing and 
+- 🎿 In my spare time, I make music, read, go climbing, ski and hang out with people who are probably smarter than I am.
 - 📫 You can find me in the following places:
   -  [email](jackmhughes1998@gmail.com.)
   -  [LinkedIn]()
